@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC 4.0: Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="notification_error_ssl_cert_invalid">SSL Certificate error</string>
+
+    <string name="my_name">Khalid El-nagar</string>
+    <string name="track">Track:</string>
+    <string name="my_track">Android</string>
+    <string name="country">Country:</string>
+    <string name="my_country">Egypt</string>
+    <string name="email">Email:</string>
+    <string name="my_email">khalid.3lnagar@gmail.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="my_phone_number">+201065464328</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="my_slack_username">@Khalid Elnagar</string>
+
+</resources>
